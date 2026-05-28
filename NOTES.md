@@ -35,4 +35,5 @@ installed vite:
 # github_repo_20260422
 ``https://github.com/iAnonymous3000?tab=repositories``
 
-
+# Font Awesome Icon Lookup
+``https://fontawesome.com/``
